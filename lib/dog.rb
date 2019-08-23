@@ -12,4 +12,5 @@ class Dog
   end
 end 
 
-name="Leslie"
+fido = Dog.new    
+fido.name="Leslie"
